@@ -1,1 +1,2 @@
-ansible-zabbix-agent
+# from GitHub
+- src: https://github.com/bennojoy/nginx
