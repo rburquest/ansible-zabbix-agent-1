@@ -1,0 +1,3 @@
+- hosts: servers
+      roles:
+         - { role: kleinstuff.zabbix-agent, ansible_zabbix_agent__ServerAddr: '129.94.2.89' }
